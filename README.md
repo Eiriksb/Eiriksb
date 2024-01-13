@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiriksb" alt="eiriksb" /></a> </p>
 
-- 🔭 I’m currently working on [KartAI 2.0](https://github.com/kartAI)
+- 🔭 I’m currently working on my Bachelor with [Atlas](https://atlas.co)
 
 - 🌱 I’m currently learning **Frontend & Backend**
 
